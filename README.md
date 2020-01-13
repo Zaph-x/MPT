@@ -1,4 +1,4 @@
-# SMPT (Selenium Moodle Prezi Transcriber)
+# MPT (Moodle Prezi Transcriber)
 
 This is a PowerShell script to collect prezi transcriptions, from course material.
 
