@@ -9,3 +9,5 @@ To install Selenium run the following command:
 PS> Install-Module Selenium
 ```
 
+Automate The Boring Stuff With ~~Python~~ PowerShell.
+
